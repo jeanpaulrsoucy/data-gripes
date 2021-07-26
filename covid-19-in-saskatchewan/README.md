@@ -1,6 +1,6 @@
 # Filling in the timeline of COVID-19 in Saskatchewan
 
-Data and code to accompany the post "[Filling in the timeline of COVID-19 in Saskatchewan](data.gripe/covid-19-in-saskatchewan/)".
+Data and code to accompany the post "[Filling in the timeline of COVID-19 in Saskatchewan](https://data.gripe/covid-19-in-saskatchewan/)".
 
 ## Data
 
