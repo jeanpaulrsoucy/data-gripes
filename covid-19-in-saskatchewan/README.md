@@ -2,6 +2,8 @@
 
 Data and code to accompany the post "[Filling in the timeline of COVID-19 in Saskatchewan](https://data.gripe/covid-19-in-saskatchewan/)".
 
+**Update: In addition to the original case dataset, a corresponding dataset (and data processing script) has been added for deaths.**
+
 ## Data
 
 Datasets are contained in the directory `data`:

@@ -1,0 +1,835 @@
+"date","region","cumulative_deaths","deaths"
+2020-03-18,"Central (excluding Saskatoon)",0,0
+2020-03-18,"Far North",0,0
+2020-03-18,"North",0,0
+2020-03-18,"Regina",0,0
+2020-03-18,"Saskatoon",0,0
+2020-03-18,"South (excluding Regina)",0,0
+2020-03-19,"Central (excluding Saskatoon)",0,0
+2020-03-19,"Far North",0,0
+2020-03-19,"North",0,0
+2020-03-19,"Regina",0,0
+2020-03-19,"Saskatoon",0,0
+2020-03-19,"South (excluding Regina)",0,0
+2020-03-20,"Central (excluding Saskatoon)",0,0
+2020-03-20,"Far North",0,0
+2020-03-20,"North",0,0
+2020-03-20,"Regina",0,0
+2020-03-20,"Saskatoon",0,0
+2020-03-20,"South (excluding Regina)",0,0
+2020-03-21,"Central (excluding Saskatoon)",0,0
+2020-03-21,"Far North",0,0
+2020-03-21,"North",0,0
+2020-03-21,"Regina",0,0
+2020-03-21,"Saskatoon",0,0
+2020-03-21,"South (excluding Regina)",0,0
+2020-03-22,"Central (excluding Saskatoon)",0,0
+2020-03-22,"Far North",0,0
+2020-03-22,"North",0,0
+2020-03-22,"Regina",0,0
+2020-03-22,"Saskatoon",0,0
+2020-03-22,"South (excluding Regina)",0,0
+2020-03-23,"Central (excluding Saskatoon)",0,0
+2020-03-23,"Far North",0,0
+2020-03-23,"North",0,0
+2020-03-23,"Regina",0,0
+2020-03-23,"Saskatoon",0,0
+2020-03-23,"South (excluding Regina)",0,0
+2020-03-24,"Central (excluding Saskatoon)",0,0
+2020-03-24,"Far North",0,0
+2020-03-24,"North",0,0
+2020-03-24,"Regina",0,0
+2020-03-24,"Saskatoon",0,0
+2020-03-24,"South (excluding Regina)",0,0
+2020-03-25,"Central (excluding Saskatoon)",0,0
+2020-03-25,"Far North",0,0
+2020-03-25,"North",0,0
+2020-03-25,"Regina",0,0
+2020-03-25,"Saskatoon",0,0
+2020-03-25,"South (excluding Regina)",0,0
+2020-03-26,"Central (excluding Saskatoon)",0,0
+2020-03-26,"Far North",0,0
+2020-03-26,"North",0,0
+2020-03-26,"Regina",0,0
+2020-03-26,"Saskatoon",0,0
+2020-03-26,"South (excluding Regina)",0,0
+2020-03-27,"Central (excluding Saskatoon)",0,0
+2020-03-27,"Far North",0,0
+2020-03-27,"North",0,0
+2020-03-27,"Regina",0,0
+2020-03-27,"Saskatoon",0,0
+2020-03-27,"South (excluding Regina)",0,0
+2020-03-28,"Central (excluding Saskatoon)",0,0
+2020-03-28,"Far North",0,0
+2020-03-28,"North",0,0
+2020-03-28,"Regina",0,0
+2020-03-28,"Saskatoon",0,0
+2020-03-28,"South (excluding Regina)",0,0
+2020-03-29,"Central (excluding Saskatoon)",0,0
+2020-03-29,"Far North",0,0
+2020-03-29,"North",0,0
+2020-03-29,"Regina",0,0
+2020-03-29,"Saskatoon",0,0
+2020-03-29,"South (excluding Regina)",0,0
+2020-03-30,"Central (excluding Saskatoon)",0,0
+2020-03-30,"Far North",0,0
+2020-03-30,"North",0,0
+2020-03-30,"Regina",0,0
+2020-03-30,"Saskatoon",0,0
+2020-03-30,"South (excluding Regina)",0,0
+2020-03-31,"Central (excluding Saskatoon)",0,0
+2020-03-31,"Far North",0,0
+2020-03-31,"North",0,0
+2020-03-31,"Regina",0,0
+2020-03-31,"Saskatoon",0,0
+2020-03-31,"South (excluding Regina)",0,0
+2020-04-01,"Central (excluding Saskatoon)",0,0
+2020-04-01,"Far North",0,0
+2020-04-01,"North",0,0
+2020-04-01,"Regina",0,0
+2020-04-01,"Saskatoon",0,0
+2020-04-01,"South (excluding Regina)",0,0
+2020-04-02,"Central (excluding Saskatoon)",0,0
+2020-04-02,"Far North",0,0
+2020-04-02,"North",0,0
+2020-04-02,"Regina",0,0
+2020-04-02,"Saskatoon",0,0
+2020-04-02,"South (excluding Regina)",0,0
+2020-04-03,"Central (excluding Saskatoon)",0,0
+2020-04-03,"Far North",0,0
+2020-04-03,"North",0,0
+2020-04-03,"Regina",0,0
+2020-04-03,"Saskatoon",0,0
+2020-04-03,"South (excluding Regina)",0,0
+2020-04-04,"Central (excluding Saskatoon)",1,1
+2020-04-04,"Far North",0,0
+2020-04-04,"North",1,1
+2020-04-04,"Regina",0,0
+2020-04-04,"Saskatoon",1,1
+2020-04-04,"South (excluding Regina)",0,0
+2020-04-05,"Central (excluding Saskatoon)",1,0
+2020-04-05,"Far North",0,0
+2020-04-05,"North",1,0
+2020-04-05,"Regina",0,0
+2020-04-05,"Saskatoon",1,0
+2020-04-05,"South (excluding Regina)",0,0
+2020-04-06,"Central (excluding Saskatoon)",1,0
+2020-04-06,"Far North",0,0
+2020-04-06,"North",1,0
+2020-04-06,"Regina",0,0
+2020-04-06,"Saskatoon",1,0
+2020-04-06,"South (excluding Regina)",0,0
+2020-04-07,"Central (excluding Saskatoon)",1,0
+2020-04-07,"Far North",0,0
+2020-04-07,"North",1,0
+2020-04-07,"Regina",0,0
+2020-04-07,"Saskatoon",1,0
+2020-04-07,"South (excluding Regina)",0,0
+2020-04-08,"Central (excluding Saskatoon)",1,0
+2020-04-08,"Far North",0,0
+2020-04-08,"North",1,0
+2020-04-08,"Regina",0,0
+2020-04-08,"Saskatoon",1,0
+2020-04-08,"South (excluding Regina)",0,0
+2020-04-09,"Central (excluding Saskatoon)",1,0
+2020-04-09,"Far North",0,0
+2020-04-09,"North",1,0
+2020-04-09,"Regina",0,0
+2020-04-09,"Saskatoon",1,0
+2020-04-09,"South (excluding Regina)",0,0
+2020-04-10,"Central (excluding Saskatoon)",1,0
+2020-04-10,"Far North",0,0
+2020-04-10,"North",1,0
+2020-04-10,"Regina",0,0
+2020-04-10,"Saskatoon",1,0
+2020-04-10,"South (excluding Regina)",0,0
+2020-04-11,"Central (excluding Saskatoon)",1,0
+2020-04-11,"Far North",0,0
+2020-04-11,"North",1,0
+2020-04-11,"Regina",1,1
+2020-04-11,"Saskatoon",1,0
+2020-04-11,"South (excluding Regina)",0,0
+2020-04-12,"Central (excluding Saskatoon)",1,0
+2020-04-12,"Far North",0,0
+2020-04-12,"North",1,0
+2020-04-12,"Regina",1,0
+2020-04-12,"Saskatoon",1,0
+2020-04-12,"South (excluding Regina)",0,0
+2020-04-13,"Central (excluding Saskatoon)",1,0
+2020-04-13,"Far North",0,0
+2020-04-13,"North",1,0
+2020-04-13,"Regina",1,0
+2020-04-13,"Saskatoon",1,0
+2020-04-13,"South (excluding Regina)",0,0
+2020-04-14,"Central (excluding Saskatoon)",1,0
+2020-04-14,"Far North",0,0
+2020-04-14,"North",1,0
+2020-04-14,"Regina",1,0
+2020-04-14,"Saskatoon",1,0
+2020-04-14,"South (excluding Regina)",0,0
+2020-04-15,"Central (excluding Saskatoon)",1,0
+2020-04-15,"Far North",0,0
+2020-04-15,"North",1,0
+2020-04-15,"Regina",1,0
+2020-04-15,"Saskatoon",1,0
+2020-04-15,"South (excluding Regina)",0,0
+2020-04-16,"Central (excluding Saskatoon)",1,0
+2020-04-16,"Far North",0,0
+2020-04-16,"North",1,0
+2020-04-16,"Regina",1,0
+2020-04-16,"Saskatoon",1,0
+2020-04-16,"South (excluding Regina)",0,0
+2020-04-17,"Central (excluding Saskatoon)",1,0
+2020-04-17,"Far North",0,0
+2020-04-17,"North",1,0
+2020-04-17,"Regina",1,0
+2020-04-17,"Saskatoon",1,0
+2020-04-17,"South (excluding Regina)",0,0
+2020-04-18,"Central (excluding Saskatoon)",1,0
+2020-04-18,"Far North",0,0
+2020-04-18,"North",1,0
+2020-04-18,"Regina",1,0
+2020-04-18,"Saskatoon",1,0
+2020-04-18,"South (excluding Regina)",0,0
+2020-04-19,"Central (excluding Saskatoon)",1,0
+2020-04-19,"Far North",0,0
+2020-04-19,"North",1,0
+2020-04-19,"Regina",1,0
+2020-04-19,"Saskatoon",1,0
+2020-04-19,"South (excluding Regina)",0,0
+2020-04-20,"Central (excluding Saskatoon)",1,0
+2020-04-20,"Far North",0,0
+2020-04-20,"North",1,0
+2020-04-20,"Regina",1,0
+2020-04-20,"Saskatoon",1,0
+2020-04-20,"South (excluding Regina)",0,0
+2020-04-21,"Central (excluding Saskatoon)",1,0
+2020-04-21,"Far North",0,0
+2020-04-21,"North",1,0
+2020-04-21,"Regina",1,0
+2020-04-21,"Saskatoon",1,0
+2020-04-21,"South (excluding Regina)",0,0
+2020-04-22,"Central (excluding Saskatoon)",1,0
+2020-04-22,"Far North",0,0
+2020-04-22,"North",1,0
+2020-04-22,"Regina",1,0
+2020-04-22,"Saskatoon",1,0
+2020-04-22,"South (excluding Regina)",0,0
+2020-04-23,"Central (excluding Saskatoon)",1,0
+2020-04-23,"Far North",0,0
+2020-04-23,"North",1,0
+2020-04-23,"Regina",1,0
+2020-04-23,"Saskatoon",1,0
+2020-04-23,"South (excluding Regina)",0,0
+2020-04-24,"Central (excluding Saskatoon)",1,0
+2020-04-24,"Far North",0,0
+2020-04-24,"North",1,0
+2020-04-24,"Regina",1,0
+2020-04-24,"Saskatoon",1,0
+2020-04-24,"South (excluding Regina)",0,0
+2020-04-25,"Central (excluding Saskatoon)",1,0
+2020-04-25,"Far North",0,0
+2020-04-25,"North",1,0
+2020-04-25,"Regina",1,0
+2020-04-25,"Saskatoon",1,0
+2020-04-25,"South (excluding Regina)",0,0
+2020-04-26,"Central (excluding Saskatoon)",1,0
+2020-04-26,"Far North",0,0
+2020-04-26,"North",1,0
+2020-04-26,"Regina",1,0
+2020-04-26,"Saskatoon",1,0
+2020-04-26,"South (excluding Regina)",0,0
+2020-04-27,"Central (excluding Saskatoon)",1,0
+2020-04-27,"Far North",1,1
+2020-04-27,"North",1,0
+2020-04-27,"Regina",1,0
+2020-04-27,"Saskatoon",1,0
+2020-04-27,"South (excluding Regina)",0,0
+2020-04-28,"Central (excluding Saskatoon)",1,0
+2020-04-28,"Far North",1,0
+2020-04-28,"North",1,0
+2020-04-28,"Regina",1,0
+2020-04-28,"Saskatoon",1,0
+2020-04-28,"South (excluding Regina)",0,0
+2020-04-29,"Central (excluding Saskatoon)",1,0
+2020-04-29,"Far North",2,1
+2020-04-29,"North",1,0
+2020-04-29,"Regina",1,0
+2020-04-29,"Saskatoon",1,0
+2020-04-29,"South (excluding Regina)",0,0
+2020-04-30,"Central (excluding Saskatoon)",1,0
+2020-04-30,"Far North",1,-1
+2020-04-30,"North",1,0
+2020-04-30,"Regina",1,0
+2020-04-30,"Saskatoon",2,1
+2020-04-30,"South (excluding Regina)",0,0
+2020-05-01,"Central (excluding Saskatoon)",1,0
+2020-05-01,"Far North",1,0
+2020-05-01,"North",1,0
+2020-05-01,"Regina",1,0
+2020-05-01,"Saskatoon",2,0
+2020-05-01,"South (excluding Regina)",0,0
+2020-05-02,"Central (excluding Saskatoon)",1,0
+2020-05-02,"Far North",1,0
+2020-05-02,"North",1,0
+2020-05-02,"Regina",1,0
+2020-05-02,"Saskatoon",2,0
+2020-05-02,"South (excluding Regina)",0,0
+2020-05-03,"Central (excluding Saskatoon)",1,0
+2020-05-03,"Far North",1,0
+2020-05-03,"North",1,0
+2020-05-03,"Regina",1,0
+2020-05-03,"Saskatoon",2,0
+2020-05-03,"South (excluding Regina)",0,0
+2020-05-04,"Central (excluding Saskatoon)",1,0
+2020-05-04,"Far North",1,0
+2020-05-04,"North",1,0
+2020-05-04,"Regina",1,0
+2020-05-04,"Saskatoon",2,0
+2020-05-04,"South (excluding Regina)",0,0
+2020-05-05,"Central (excluding Saskatoon)",1,0
+2020-05-05,"Far North",1,0
+2020-05-05,"North",1,0
+2020-05-05,"Regina",1,0
+2020-05-05,"Saskatoon",2,0
+2020-05-05,"South (excluding Regina)",0,0
+2020-05-06,"Central (excluding Saskatoon)",1,0
+2020-05-06,"Far North",1,0
+2020-05-06,"North",1,0
+2020-05-06,"Regina",1,0
+2020-05-06,"Saskatoon",2,0
+2020-05-06,"South (excluding Regina)",0,0
+2020-05-07,"Central (excluding Saskatoon)",1,0
+2020-05-07,"Far North",1,0
+2020-05-07,"North",1,0
+2020-05-07,"Regina",1,0
+2020-05-07,"Saskatoon",2,0
+2020-05-07,"South (excluding Regina)",0,0
+2020-05-08,"Central (excluding Saskatoon)",1,0
+2020-05-08,"Far North",1,0
+2020-05-08,"North",1,0
+2020-05-08,"Regina",1,0
+2020-05-08,"Saskatoon",2,0
+2020-05-08,"South (excluding Regina)",0,0
+2020-05-09,"Central (excluding Saskatoon)",1,0
+2020-05-09,"Far North",1,0
+2020-05-09,"North",1,0
+2020-05-09,"Regina",1,0
+2020-05-09,"Saskatoon",2,0
+2020-05-09,"South (excluding Regina)",0,0
+2020-05-10,"Central (excluding Saskatoon)",1,0
+2020-05-10,"Far North",1,0
+2020-05-10,"North",1,0
+2020-05-10,"Regina",1,0
+2020-05-10,"Saskatoon",2,0
+2020-05-10,"South (excluding Regina)",0,0
+2020-05-11,"Central (excluding Saskatoon)",1,0
+2020-05-11,"Far North",1,0
+2020-05-11,"North",1,0
+2020-05-11,"Regina",1,0
+2020-05-11,"Saskatoon",2,0
+2020-05-11,"South (excluding Regina)",0,0
+2020-05-12,"Central (excluding Saskatoon)",1,0
+2020-05-12,"Far North",1,0
+2020-05-12,"North",1,0
+2020-05-12,"Regina",1,0
+2020-05-12,"Saskatoon",2,0
+2020-05-12,"South (excluding Regina)",0,0
+2020-05-13,"Central (excluding Saskatoon)",1,0
+2020-05-13,"Far North",1,0
+2020-05-13,"North",1,0
+2020-05-13,"Regina",1,0
+2020-05-13,"Saskatoon",2,0
+2020-05-13,"South (excluding Regina)",0,0
+2020-05-14,"Central (excluding Saskatoon)",1,0
+2020-05-14,"Far North",1,0
+2020-05-14,"North",1,0
+2020-05-14,"Regina",1,0
+2020-05-14,"Saskatoon",2,0
+2020-05-14,"South (excluding Regina)",0,0
+2020-05-15,"Central (excluding Saskatoon)",1,0
+2020-05-15,"Far North",1,0
+2020-05-15,"North",1,0
+2020-05-15,"Regina",1,0
+2020-05-15,"Saskatoon",2,0
+2020-05-15,"South (excluding Regina)",0,0
+2020-05-16,"Central (excluding Saskatoon)",1,0
+2020-05-16,"Far North",1,0
+2020-05-16,"North",1,0
+2020-05-16,"Regina",1,0
+2020-05-16,"Saskatoon",2,0
+2020-05-16,"South (excluding Regina)",0,0
+2020-05-17,"Central (excluding Saskatoon)",1,0
+2020-05-17,"Far North",1,0
+2020-05-17,"North",1,0
+2020-05-17,"Regina",1,0
+2020-05-17,"Saskatoon",2,0
+2020-05-17,"South (excluding Regina)",0,0
+2020-05-18,"Central (excluding Saskatoon)",1,0
+2020-05-18,"Far North",1,0
+2020-05-18,"North",1,0
+2020-05-18,"Regina",1,0
+2020-05-18,"Saskatoon",2,0
+2020-05-18,"South (excluding Regina)",0,0
+2020-05-19,"Central (excluding Saskatoon)",1,0
+2020-05-19,"Far North",1,0
+2020-05-19,"North",1,0
+2020-05-19,"Regina",1,0
+2020-05-19,"Saskatoon",2,0
+2020-05-19,"South (excluding Regina)",0,0
+2020-05-20,"Central (excluding Saskatoon)",1,0
+2020-05-20,"Far North",1,0
+2020-05-20,"North",2,1
+2020-05-20,"Regina",1,0
+2020-05-20,"Saskatoon",2,0
+2020-05-20,"South (excluding Regina)",0,0
+2020-05-21,"Central (excluding Saskatoon)",1,0
+2020-05-21,"Far North",1,0
+2020-05-21,"North",2,0
+2020-05-21,"Regina",1,0
+2020-05-21,"Saskatoon",2,0
+2020-05-21,"South (excluding Regina)",0,0
+2020-05-22,"Central (excluding Saskatoon)",1,0
+2020-05-22,"Far North",1,0
+2020-05-22,"North",2,0
+2020-05-22,"Regina",1,0
+2020-05-22,"Saskatoon",2,0
+2020-05-22,"South (excluding Regina)",0,0
+2020-05-23,"Central (excluding Saskatoon)",1,0
+2020-05-23,"Far North",1,0
+2020-05-23,"North",2,0
+2020-05-23,"Regina",1,0
+2020-05-23,"Saskatoon",2,0
+2020-05-23,"South (excluding Regina)",0,0
+2020-05-24,"Central (excluding Saskatoon)",1,0
+2020-05-24,"Far North",1,0
+2020-05-24,"North",2,0
+2020-05-24,"Regina",1,0
+2020-05-24,"Saskatoon",2,0
+2020-05-24,"South (excluding Regina)",0,0
+2020-05-25,"Central (excluding Saskatoon)",1,0
+2020-05-25,"Far North",1,0
+2020-05-25,"North",2,0
+2020-05-25,"Regina",1,0
+2020-05-25,"Saskatoon",2,0
+2020-05-25,"South (excluding Regina)",0,0
+2020-05-26,"Central (excluding Saskatoon)",1,0
+2020-05-26,"Far North",2,1
+2020-05-26,"North",2,0
+2020-05-26,"Regina",1,0
+2020-05-26,"Saskatoon",2,0
+2020-05-26,"South (excluding Regina)",0,0
+2020-05-27,"Central (excluding Saskatoon)",1,0
+2020-05-27,"Far North",4,2
+2020-05-27,"North",2,0
+2020-05-27,"Regina",1,0
+2020-05-27,"Saskatoon",2,0
+2020-05-27,"South (excluding Regina)",0,0
+2020-05-28,"Central (excluding Saskatoon)",1,0
+2020-05-28,"Far North",4,0
+2020-05-28,"North",2,0
+2020-05-28,"Regina",1,0
+2020-05-28,"Saskatoon",2,0
+2020-05-28,"South (excluding Regina)",0,0
+2020-05-29,"Central (excluding Saskatoon)",1,0
+2020-05-29,"Far North",4,0
+2020-05-29,"North",2,0
+2020-05-29,"Regina",1,0
+2020-05-29,"Saskatoon",2,0
+2020-05-29,"South (excluding Regina)",0,0
+2020-05-30,"Central (excluding Saskatoon)",1,0
+2020-05-30,"Far North",4,0
+2020-05-30,"North",2,0
+2020-05-30,"Regina",1,0
+2020-05-30,"Saskatoon",2,0
+2020-05-30,"South (excluding Regina)",0,0
+2020-05-31,"Central (excluding Saskatoon)",1,0
+2020-05-31,"Far North",4,0
+2020-05-31,"North",3,1
+2020-05-31,"Regina",1,0
+2020-05-31,"Saskatoon",2,0
+2020-05-31,"South (excluding Regina)",0,0
+2020-06-01,"Central (excluding Saskatoon)",1,0
+2020-06-01,"Far North",4,0
+2020-06-01,"North",3,0
+2020-06-01,"Regina",1,0
+2020-06-01,"Saskatoon",2,0
+2020-06-01,"South (excluding Regina)",0,0
+2020-06-02,"Central (excluding Saskatoon)",1,0
+2020-06-02,"Far North",4,0
+2020-06-02,"North",3,0
+2020-06-02,"Regina",1,0
+2020-06-02,"Saskatoon",2,0
+2020-06-02,"South (excluding Regina)",0,0
+2020-06-03,"Central (excluding Saskatoon)",1,0
+2020-06-03,"Far North",4,0
+2020-06-03,"North",3,0
+2020-06-03,"Regina",1,0
+2020-06-03,"Saskatoon",2,0
+2020-06-03,"South (excluding Regina)",0,0
+2020-06-04,"Central (excluding Saskatoon)",1,0
+2020-06-04,"Far North",4,0
+2020-06-04,"North",3,0
+2020-06-04,"Regina",1,0
+2020-06-04,"Saskatoon",2,0
+2020-06-04,"South (excluding Regina)",0,0
+2020-06-05,"Central (excluding Saskatoon)",1,0
+2020-06-05,"Far North",4,0
+2020-06-05,"North",3,0
+2020-06-05,"Regina",1,0
+2020-06-05,"Saskatoon",2,0
+2020-06-05,"South (excluding Regina)",0,0
+2020-06-06,"Central (excluding Saskatoon)",1,0
+2020-06-06,"Far North",4,0
+2020-06-06,"North",3,0
+2020-06-06,"Regina",1,0
+2020-06-06,"Saskatoon",2,0
+2020-06-06,"South (excluding Regina)",0,0
+2020-06-07,"Central (excluding Saskatoon)",1,0
+2020-06-07,"Far North",4,0
+2020-06-07,"North",3,0
+2020-06-07,"Regina",1,0
+2020-06-07,"Saskatoon",2,0
+2020-06-07,"South (excluding Regina)",0,0
+2020-06-08,"Central (excluding Saskatoon)",1,0
+2020-06-08,"Far North",6,2
+2020-06-08,"North",3,0
+2020-06-08,"Regina",1,0
+2020-06-08,"Saskatoon",2,0
+2020-06-08,"South (excluding Regina)",0,0
+2020-06-09,"Central (excluding Saskatoon)",1,0
+2020-06-09,"Far North",6,0
+2020-06-09,"North",3,0
+2020-06-09,"Regina",1,0
+2020-06-09,"Saskatoon",2,0
+2020-06-09,"South (excluding Regina)",0,0
+2020-06-10,"Central (excluding Saskatoon)",1,0
+2020-06-10,"Far North",6,0
+2020-06-10,"North",3,0
+2020-06-10,"Regina",1,0
+2020-06-10,"Saskatoon",2,0
+2020-06-10,"South (excluding Regina)",0,0
+2020-06-11,"Central (excluding Saskatoon)",1,0
+2020-06-11,"Far North",6,0
+2020-06-11,"North",3,0
+2020-06-11,"Regina",1,0
+2020-06-11,"Saskatoon",2,0
+2020-06-11,"South (excluding Regina)",0,0
+2020-06-12,"Central (excluding Saskatoon)",1,0
+2020-06-12,"Far North",6,0
+2020-06-12,"North",3,0
+2020-06-12,"Regina",1,0
+2020-06-12,"Saskatoon",2,0
+2020-06-12,"South (excluding Regina)",0,0
+2020-06-13,"Central (excluding Saskatoon)",1,0
+2020-06-13,"Far North",6,0
+2020-06-13,"North",3,0
+2020-06-13,"Regina",1,0
+2020-06-13,"Saskatoon",2,0
+2020-06-13,"South (excluding Regina)",0,0
+2020-06-14,"Central (excluding Saskatoon)",1,0
+2020-06-14,"Far North",6,0
+2020-06-14,"North",3,0
+2020-06-14,"Regina",1,0
+2020-06-14,"Saskatoon",2,0
+2020-06-14,"South (excluding Regina)",0,0
+2020-06-15,"Central (excluding Saskatoon)",1,0
+2020-06-15,"Far North",6,0
+2020-06-15,"North",3,0
+2020-06-15,"Regina",1,0
+2020-06-15,"Saskatoon",2,0
+2020-06-15,"South (excluding Regina)",0,0
+2020-06-16,"Central (excluding Saskatoon)",1,0
+2020-06-16,"Far North",6,0
+2020-06-16,"North",3,0
+2020-06-16,"Regina",1,0
+2020-06-16,"Saskatoon",2,0
+2020-06-16,"South (excluding Regina)",0,0
+2020-06-17,"Central (excluding Saskatoon)",1,0
+2020-06-17,"Far North",6,0
+2020-06-17,"North",3,0
+2020-06-17,"Regina",1,0
+2020-06-17,"Saskatoon",2,0
+2020-06-17,"South (excluding Regina)",0,0
+2020-06-18,"Central (excluding Saskatoon)",1,0
+2020-06-18,"Far North",6,0
+2020-06-18,"North",3,0
+2020-06-18,"Regina",1,0
+2020-06-18,"Saskatoon",2,0
+2020-06-18,"South (excluding Regina)",0,0
+2020-06-19,"Central (excluding Saskatoon)",1,0
+2020-06-19,"Far North",6,0
+2020-06-19,"North",3,0
+2020-06-19,"Regina",1,0
+2020-06-19,"Saskatoon",2,0
+2020-06-19,"South (excluding Regina)",0,0
+2020-06-20,"Central (excluding Saskatoon)",1,0
+2020-06-20,"Far North",6,0
+2020-06-20,"North",3,0
+2020-06-20,"Regina",1,0
+2020-06-20,"Saskatoon",2,0
+2020-06-20,"South (excluding Regina)",0,0
+2020-06-21,"Central (excluding Saskatoon)",1,0
+2020-06-21,"Far North",6,0
+2020-06-21,"North",3,0
+2020-06-21,"Regina",1,0
+2020-06-21,"Saskatoon",2,0
+2020-06-21,"South (excluding Regina)",0,0
+2020-06-22,"Central (excluding Saskatoon)",1,0
+2020-06-22,"Far North",6,0
+2020-06-22,"North",3,0
+2020-06-22,"Regina",1,0
+2020-06-22,"Saskatoon",2,0
+2020-06-22,"South (excluding Regina)",0,0
+2020-06-23,"Central (excluding Saskatoon)",1,0
+2020-06-23,"Far North",6,0
+2020-06-23,"North",3,0
+2020-06-23,"Regina",1,0
+2020-06-23,"Saskatoon",2,0
+2020-06-23,"South (excluding Regina)",0,0
+2020-06-24,"Central (excluding Saskatoon)",1,0
+2020-06-24,"Far North",6,0
+2020-06-24,"North",3,0
+2020-06-24,"Regina",1,0
+2020-06-24,"Saskatoon",2,0
+2020-06-24,"South (excluding Regina)",0,0
+2020-06-25,"Central (excluding Saskatoon)",1,0
+2020-06-25,"Far North",6,0
+2020-06-25,"North",3,0
+2020-06-25,"Regina",1,0
+2020-06-25,"Saskatoon",2,0
+2020-06-25,"South (excluding Regina)",0,0
+2020-06-26,"Central (excluding Saskatoon)",1,0
+2020-06-26,"Far North",6,0
+2020-06-26,"North",3,0
+2020-06-26,"Regina",1,0
+2020-06-26,"Saskatoon",2,0
+2020-06-26,"South (excluding Regina)",0,0
+2020-06-27,"Central (excluding Saskatoon)",1,0
+2020-06-27,"Far North",6,0
+2020-06-27,"North",3,0
+2020-06-27,"Regina",1,0
+2020-06-27,"Saskatoon",2,0
+2020-06-27,"South (excluding Regina)",0,0
+2020-06-28,"Central (excluding Saskatoon)",1,0
+2020-06-28,"Far North",6,0
+2020-06-28,"North",3,0
+2020-06-28,"Regina",1,0
+2020-06-28,"Saskatoon",2,0
+2020-06-28,"South (excluding Regina)",0,0
+2020-06-29,"Central (excluding Saskatoon)",1,0
+2020-06-29,"Far North",6,0
+2020-06-29,"North",3,0
+2020-06-29,"Regina",1,0
+2020-06-29,"Saskatoon",2,0
+2020-06-29,"South (excluding Regina)",0,0
+2020-06-30,"Central (excluding Saskatoon)",1,0
+2020-06-30,"Far North",6,0
+2020-06-30,"North",3,0
+2020-06-30,"Regina",1,0
+2020-06-30,"Saskatoon",2,0
+2020-06-30,"South (excluding Regina)",0,0
+2020-07-01,"Central (excluding Saskatoon)",1,0
+2020-07-01,"Far North",6,0
+2020-07-01,"North",3,0
+2020-07-01,"Regina",1,0
+2020-07-01,"Saskatoon",2,0
+2020-07-01,"South (excluding Regina)",0,0
+2020-07-02,"Central (excluding Saskatoon)",1,0
+2020-07-02,"Far North",7,1
+2020-07-02,"North",3,0
+2020-07-02,"Regina",1,0
+2020-07-02,"Saskatoon",2,0
+2020-07-02,"South (excluding Regina)",0,0
+2020-07-03,"Central (excluding Saskatoon)",1,0
+2020-07-03,"Far North",7,0
+2020-07-03,"North",3,0
+2020-07-03,"Regina",1,0
+2020-07-03,"Saskatoon",2,0
+2020-07-03,"South (excluding Regina)",0,0
+2020-07-04,"Central (excluding Saskatoon)",1,0
+2020-07-04,"Far North",7,0
+2020-07-04,"North",3,0
+2020-07-04,"Regina",1,0
+2020-07-04,"Saskatoon",2,0
+2020-07-04,"South (excluding Regina)",0,0
+2020-07-05,"Central (excluding Saskatoon)",1,0
+2020-07-05,"Far North",7,0
+2020-07-05,"North",3,0
+2020-07-05,"Regina",1,0
+2020-07-05,"Saskatoon",2,0
+2020-07-05,"South (excluding Regina)",0,0
+2020-07-06,"Central (excluding Saskatoon)",1,0
+2020-07-06,"Far North",7,0
+2020-07-06,"North",3,0
+2020-07-06,"Regina",1,0
+2020-07-06,"Saskatoon",2,0
+2020-07-06,"South (excluding Regina)",0,0
+2020-07-07,"Central (excluding Saskatoon)",1,0
+2020-07-07,"Far North",7,0
+2020-07-07,"North",4,1
+2020-07-07,"Regina",1,0
+2020-07-07,"Saskatoon",2,0
+2020-07-07,"South (excluding Regina)",0,0
+2020-07-08,"Central (excluding Saskatoon)",1,0
+2020-07-08,"Far North",7,0
+2020-07-08,"North",4,0
+2020-07-08,"Regina",1,0
+2020-07-08,"Saskatoon",2,0
+2020-07-08,"South (excluding Regina)",0,0
+2020-07-09,"Central (excluding Saskatoon)",1,0
+2020-07-09,"Far North",7,0
+2020-07-09,"North",4,0
+2020-07-09,"Regina",1,0
+2020-07-09,"Saskatoon",2,0
+2020-07-09,"South (excluding Regina)",0,0
+2020-07-10,"Central (excluding Saskatoon)",1,0
+2020-07-10,"Far North",7,0
+2020-07-10,"North",4,0
+2020-07-10,"Regina",1,0
+2020-07-10,"Saskatoon",2,0
+2020-07-10,"South (excluding Regina)",0,0
+2020-07-11,"Central (excluding Saskatoon)",1,0
+2020-07-11,"Far North",7,0
+2020-07-11,"North",4,0
+2020-07-11,"Regina",1,0
+2020-07-11,"Saskatoon",2,0
+2020-07-11,"South (excluding Regina)",0,0
+2020-07-12,"Central (excluding Saskatoon)",1,0
+2020-07-12,"Far North",7,0
+2020-07-12,"North",4,0
+2020-07-12,"Regina",1,0
+2020-07-12,"Saskatoon",2,0
+2020-07-12,"South (excluding Regina)",0,0
+2020-07-13,"Central (excluding Saskatoon)",1,0
+2020-07-13,"Far North",7,0
+2020-07-13,"North",4,0
+2020-07-13,"Regina",1,0
+2020-07-13,"Saskatoon",2,0
+2020-07-13,"South (excluding Regina)",0,0
+2020-07-14,"Central (excluding Saskatoon)",1,0
+2020-07-14,"Far North",7,0
+2020-07-14,"North",4,0
+2020-07-14,"Regina",1,0
+2020-07-14,"Saskatoon",2,0
+2020-07-14,"South (excluding Regina)",0,0
+2020-07-15,"Central (excluding Saskatoon)",1,0
+2020-07-15,"Far North",7,0
+2020-07-15,"North",4,0
+2020-07-15,"Regina",1,0
+2020-07-15,"Saskatoon",2,0
+2020-07-15,"South (excluding Regina)",0,0
+2020-07-16,"Central (excluding Saskatoon)",1,0
+2020-07-16,"Far North",7,0
+2020-07-16,"North",4,0
+2020-07-16,"Regina",1,0
+2020-07-16,"Saskatoon",2,0
+2020-07-16,"South (excluding Regina)",0,0
+2020-07-17,"Central (excluding Saskatoon)",1,0
+2020-07-17,"Far North",7,0
+2020-07-17,"North",4,0
+2020-07-17,"Regina",1,0
+2020-07-17,"Saskatoon",2,0
+2020-07-17,"South (excluding Regina)",0,0
+2020-07-18,"Central (excluding Saskatoon)",1,0
+2020-07-18,"Far North",7,0
+2020-07-18,"North",4,0
+2020-07-18,"Regina",1,0
+2020-07-18,"Saskatoon",2,0
+2020-07-18,"South (excluding Regina)",0,0
+2020-07-19,"Central (excluding Saskatoon)",1,0
+2020-07-19,"Far North",7,0
+2020-07-19,"North",4,0
+2020-07-19,"Regina",1,0
+2020-07-19,"Saskatoon",2,0
+2020-07-19,"South (excluding Regina)",0,0
+2020-07-20,"Central (excluding Saskatoon)",1,0
+2020-07-20,"Far North",7,0
+2020-07-20,"North",4,0
+2020-07-20,"Regina",1,0
+2020-07-20,"Saskatoon",2,0
+2020-07-20,"South (excluding Regina)",0,0
+2020-07-21,"Central (excluding Saskatoon)",1,0
+2020-07-21,"Far North",7,0
+2020-07-21,"North",4,0
+2020-07-21,"Regina",1,0
+2020-07-21,"Saskatoon",2,0
+2020-07-21,"South (excluding Regina)",0,0
+2020-07-22,"Central (excluding Saskatoon)",1,0
+2020-07-22,"Far North",7,0
+2020-07-22,"North",4,0
+2020-07-22,"Regina",1,0
+2020-07-22,"Saskatoon",2,0
+2020-07-22,"South (excluding Regina)",0,0
+2020-07-23,"Central (excluding Saskatoon)",1,0
+2020-07-23,"Far North",7,0
+2020-07-23,"North",5,1
+2020-07-23,"Regina",1,0
+2020-07-23,"Saskatoon",2,0
+2020-07-23,"South (excluding Regina)",0,0
+2020-07-24,"Central (excluding Saskatoon)",1,0
+2020-07-24,"Far North",7,0
+2020-07-24,"North",5,0
+2020-07-24,"Regina",1,0
+2020-07-24,"Saskatoon",2,0
+2020-07-24,"South (excluding Regina)",0,0
+2020-07-25,"Central (excluding Saskatoon)",1,0
+2020-07-25,"Far North",7,0
+2020-07-25,"North",5,0
+2020-07-25,"Regina",1,0
+2020-07-25,"Saskatoon",2,0
+2020-07-25,"South (excluding Regina)",0,0
+2020-07-26,"Central (excluding Saskatoon)",1,0
+2020-07-26,"Far North",7,0
+2020-07-26,"North",5,0
+2020-07-26,"Regina",1,0
+2020-07-26,"Saskatoon",2,0
+2020-07-26,"South (excluding Regina)",0,0
+2020-07-27,"Central (excluding Saskatoon)",1,0
+2020-07-27,"Far North",7,0
+2020-07-27,"North",5,0
+2020-07-27,"Regina",1,0
+2020-07-27,"Saskatoon",2,0
+2020-07-27,"South (excluding Regina)",0,0
+2020-07-28,"Central (excluding Saskatoon)",1,0
+2020-07-28,"Far North",7,0
+2020-07-28,"North",5,0
+2020-07-28,"Regina",1,0
+2020-07-28,"Saskatoon",2,0
+2020-07-28,"South (excluding Regina)",1,1
+2020-07-29,"Central (excluding Saskatoon)",1,0
+2020-07-29,"Far North",7,0
+2020-07-29,"North",5,0
+2020-07-29,"Regina",1,0
+2020-07-29,"Saskatoon",2,0
+2020-07-29,"South (excluding Regina)",1,0
+2020-07-30,"Central (excluding Saskatoon)",1,0
+2020-07-30,"Far North",7,0
+2020-07-30,"North",5,0
+2020-07-30,"Regina",1,0
+2020-07-30,"Saskatoon",2,0
+2020-07-30,"South (excluding Regina)",2,1
+2020-07-31,"Central (excluding Saskatoon)",1,0
+2020-07-31,"Far North",7,0
+2020-07-31,"North",5,0
+2020-07-31,"Regina",1,0
+2020-07-31,"Saskatoon",2,0
+2020-07-31,"South (excluding Regina)",2,0
+2020-08-01,"Central (excluding Saskatoon)",1,0
+2020-08-01,"Far North",7,0
+2020-08-01,"North",5,0
+2020-08-01,"Regina",1,0
+2020-08-01,"Saskatoon",2,0
+2020-08-01,"South (excluding Regina)",2,0
+2020-08-02,"Central (excluding Saskatoon)",1,0
+2020-08-02,"Far North",7,0
+2020-08-02,"North",5,0
+2020-08-02,"Regina",1,0
+2020-08-02,"Saskatoon",2,0
+2020-08-02,"South (excluding Regina)",2,0
+2020-08-03,"Central (excluding Saskatoon)",1,0
+2020-08-03,"Far North",7,0
+2020-08-03,"North",5,0
+2020-08-03,"Regina",1,0
+2020-08-03,"Saskatoon",2,0
+2020-08-03,"South (excluding Regina)",2,0
