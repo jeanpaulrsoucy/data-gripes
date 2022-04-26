@@ -1,0 +1,5 @@
+label-en,label-fr,num_cases,num_hospitalizations,num_deaths,prop_cases,prop_hospitalizations,prop_deaths
+Unvaccinated,Cas non vaccinés,727925,40788,8013,76.8,79.5,75.6
+Cases not yet protected,Pas encore protégés,43471,3062,759,4.6,6.0,7.2
+Partially vaccinated,Partiellement vaccinés,53171,3374,744,5.6,6.6,7.0
+Fully vaccinated,Entièrement vaccinés,122843,4099,1077,13.0,8.0,10.2
